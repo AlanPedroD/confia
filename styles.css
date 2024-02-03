@@ -24,5 +24,11 @@ article {
 }
 
 p {
-    color: #555;
+    color: #000;
+    background-color: lightgray;
+}
+
+.container-pai{
+    display: flex;
+    height: 90vh;
 }
